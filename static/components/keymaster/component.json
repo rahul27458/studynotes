@@ -1,0 +1,9 @@
+{
+  "name": "keymaster",
+  "version": "0.0.0",
+  "commit": "84df69f7b2edf1744038b02229bed445865509f9",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/madrobby/keymaster"
+  }
+}
